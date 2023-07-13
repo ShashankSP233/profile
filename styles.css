@@ -2,7 +2,7 @@
 body {
     background-image: url("https://images.alphacoders.com/545/545752.jpg");
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: 100% 100%; 
     background-color: #f0f8ff;
     font-family: Arial, Helvetica, serif,'Brush Script MT', sans-serif,'Courier New', monospace;
